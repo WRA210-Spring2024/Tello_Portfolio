@@ -12,8 +12,11 @@ p {
     font-weight: 500;
     font-size: 1.3rem;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
     color:rgb(155, 185, 255);
+}
+h2 {
+    color:rgb(118, 226, 250)
 }
 body {
     background-color: rgb(17, 25, 62);
